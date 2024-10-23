@@ -1,0 +1,15 @@
+# ninja log v5
+6	864	7513869190565468	CMakeFiles/labs_OOP.dir/main.cpp.obj	b5deae881b2eb583
+5	2451	7514032335317101	Google_Tests/CMakeFiles/solution_tests.dir/sol_tests.cpp.obj	427117c748502d94
+631	723	7513989033288802	labs_OOP.exe	b334ba37f30b8482
+2452	4802	7514032358797279	Google_Tests/solution_tests.exe	12f5cd4a23185d
+3	484	7513989030937797	CMakeFiles/labs_OOP.dir/src/main.cpp.obj	2a8bb9c4f75ad4d8
+1	572	7514039089474512	build.ninja	2caa2d4b4c5104bd
+8	573	7514030177626575	src/CMakeFiles/labs_OOP.dir/main.cpp.obj	588f36a1fb06af0f
+2	563	7514030177581046	src/CMakeFiles/solution_lib.dir/solution.cpp.obj	8ccf34569f72741b
+564	647	7514030178443582	src/libsolution_lib.a	eaaa1b597d57a4d1
+647	744	7514030179376293	src/labs_OOP.exe	b1afdbbab63a48c7
+15	2260	7514023967818813	Google_Tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	4d24e433c58dbba6
+10	9374	7514024038812894	Google_Tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f302244bbe30cd40
+9375	11515	7514024060359784	lib/libgtestd.a	8b5a040b078b0618
+11516	11585	7514024061059845	lib/libgtest_maind.a	9e80a854ac38e448
